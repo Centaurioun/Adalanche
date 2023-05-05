@@ -9,7 +9,7 @@ require (
 	github.com/Showmax/go-fqdn v1.0.0
 	github.com/amidaware/taskmaster v0.0.0-20220111015025-c9cd178bbbf2
 	github.com/antchfx/xmlquery v1.3.12
-	github.com/gin-gonic/gin v1.8.1
+	github.com/gin-gonic/gin v1.9.0
 	github.com/go-asn1-ber/asn1-ber v1.5.4
 	github.com/go-ini/ini v1.67.0
 	github.com/gobwas/glob v0.2.3
@@ -34,9 +34,9 @@ require (
 	github.com/shirou/gopsutil/v3 v3.22.9
 	github.com/spf13/cobra v1.6.1
 	github.com/tinylib/msgp v1.1.6
-	golang.org/x/sys v0.1.0
-	golang.org/x/term v0.1.0
-	golang.org/x/text v0.4.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/term v0.5.0
+	golang.org/x/text v0.7.0
 )
 
 require (
@@ -52,9 +52,9 @@ require (
 	github.com/elastic/beats v7.6.2+incompatible // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
-	github.com/go-playground/locales v0.14.0 // indirect
-	github.com/go-playground/universal-translator v0.18.0 // indirect
-	github.com/go-playground/validator/v10 v10.11.1 // indirect
+	github.com/go-playground/locales v0.14.1 // indirect
+	github.com/go-playground/universal-translator v0.18.1 // indirect
+	github.com/go-playground/validator/v10 v10.11.2 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/snappy v0.0.4 // indirect
@@ -72,7 +72,7 @@ require (
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/lithammer/fuzzysearch v1.1.5 // indirect
 	github.com/lufia/plan9stats v0.0.0-20220913051719-115f729f3c8c // indirect
-	github.com/mattn/go-isatty v0.0.16 // indirect
+	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/minio/highwayhash v1.0.2 // indirect
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db // indirect
@@ -88,47 +88,50 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
 	github.com/tklauser/numcpus v0.5.0 // indirect
-	github.com/ugorji/go/codec v1.2.7 // indirect
+	github.com/ugorji/go/codec v1.2.9 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
-	golang.org/x/crypto v0.1.0 // indirect
-	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/crypto v0.5.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/time v0.1.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/nullbio/null.v6 v6.0.0-20161116030900-40264a2e6b79 // indirect
 	gopkg.in/toast.v1 v1.0.0-20180812000517-0a84660828b2 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
 require (
 	github.com/akyoto/cache v1.0.6
 	github.com/elastic/go-windows v1.0.1
 	github.com/felixge/fgtrace v0.2.0
+	github.com/lkarlslund/gonk v0.0.0-20221109093557-268a62c7ce0b
+	github.com/peterrk/slices v0.0.0-20220825100938-df6f4b667142
 )
 
 require (
 	github.com/DataDog/gostackparse v0.6.0 // indirect
+	github.com/bytedance/sonic v1.8.0 // indirect
+	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
 	github.com/dchest/safefile v0.0.0-20151022103144-855e8d98f185 // indirect
-	github.com/goccy/go-json v0.9.11 // indirect
+	github.com/goccy/go-json v0.10.0 // indirect
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/gravwell/buffer v0.0.0-20220728204757-23339f4bab66 // indirect
 	github.com/gravwell/ipfix v1.4.5 // indirect
 	github.com/h2non/filetype v1.1.3 // indirect
-	github.com/jfcg/sixb v1.3.5 // indirect
-	github.com/jfcg/sorty/v2 v2.0.8 // indirect
 	github.com/k-sone/ipmigo v0.0.0-20190922011749-b22c7a70e949 // indirect
-	github.com/lkarlslund/gonk v0.0.0-20221109093557-268a62c7ce0b // indirect
+	github.com/klauspost/cpuid/v2 v2.1.0 // indirect
 	github.com/miekg/dns v1.1.50 // indirect
 	github.com/open-networks/go-msgraph v0.3.1 // indirect
 	github.com/open2b/scriggo v0.56.1 // indirect
-	github.com/pelletier/go-toml/v2 v2.0.5 // indirect
-	github.com/peterrk/slices v0.0.0-20220825100938-df6f4b667142 // indirect
+	github.com/pelletier/go-toml/v2 v2.0.6 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
 	github.com/tealeg/xlsx v1.0.5 // indirect
+	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
+	golang.org/x/arch v0.0.0-20210923205945-b76863e36670 // indirect
 	golang.org/x/exp v0.0.0-20221108223516-5d533826c662 // indirect
 	golang.org/x/mod v0.6.0 // indirect
 	golang.org/x/tools v0.2.0 // indirect
 	gopkg.in/gcfg.v1 v1.2.3 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
